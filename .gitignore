@@ -208,3 +208,7 @@ __marimo__/
 
 # 忽略转换生成的文件夹
 process/
+
+
+# Config
+config.ini
